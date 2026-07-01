@@ -238,7 +238,7 @@ Project Link: [https://github.com/QuentinGouttaya/SecureForm](https://github.com
 [issues-shield]: https://img.shields.io/github/issues/QuentinGouttaya/SecureForm.svg?style=for-the-badge
 [issues-url]: https://github.com/QuentinGouttaya/SecureForm/issues
 [license-shield]: https://img.shields.io/github/license/QuentinGouttaya/SecureForm.svg?style=for-the-badge
-[license-url]: https://github.com/QuentinGouttaya/SecureForm/blob/master/LICENSE.txt
+[license-url]: https://github.com/QuentinGouttaya/SecureForm/LICENSE
 [Rust.dev]: https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white
 [Rust-url]: https://www.rust-lang.org/
 [Axum.dev]: https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white
